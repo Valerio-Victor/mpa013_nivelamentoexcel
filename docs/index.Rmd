@@ -1,0 +1,138 @@
+---
+title: 'AULA EXTRA - NIVELAMENTO EM EXCEL (MPA013 - ANÁLISE DE INVESTIMENTO COM RISCO)'
+subtitle: 'Material Complementar para Regime de Tratamento Excepcional (RTE)'
+author: '_Autor:_ Prof. [Victor Valerio](https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3017922)'
+date: '_Última atualização:_ 17/08/2020'
+output: 
+  html_document:
+    number_section: true
+    theme: readable
+    highlight: tango
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+fontsize: 12pt
+header-includes:
+  - \usepackage{setspace}
+  - \usepackage{hyperref}
+  - \doublespacing
+---
+<div style="text-align: justify">
+
+
+# O QUE É ESTE DOCUMENTO? {-}
+
+
+
+
+Este documento foi formulado de modo a auxiliar o estudante a aprofundar nos 
+temas das aulas de Análise de Investimento com Risco (MPA013) durante o Regime 
+de Tratamento  Excepicional (RTE).
+
+
+
+
+Em termos conceituais você vai encontrar aqui:
+
+
+
+
+
+- Objetivo da aula;
+- Principais conceitos abordados.
+
+
+
+
+
+Em termos de ferramentas, é disponibilizado neste documento:
+
+
+
+
+
+- Vídeo aula sobre o conteúdo;
+- Horário de atendimento sobre o conteúdo (e bate-papo informal).
+
+
+
+
+# OBJETIVOS
+
+
+
+
+Esta aula têm por objetivo geral apresentar os principais conceitos relacionados 
+à programação em excel necessária para o desenvolvimento de análises de 
+investimentos práticas.
+
+
+
+
+# PRINCIPAIS CONCEITOS
+
+
+
+
+Para atender ao objetivo traçado são realizadas uma série de definições
+introdutórias sobre o tema, podendo se destacar os conceitos:
+
+
+
+
+- Layout do Excel;
+- Colunas, Linhas e Células;
+- Formatação de Células;
+- Operações com Referências (absolutas e relativas);
+- Funções;
+- Congelar Painéis.
+
+
+
+
+# DISPONIBILIZAÇÃO DO MATERIAL 
+
+
+
+
+Para assistir a aula basta clicar abaixo:
+
+
+
+
+```{r fig2, echo = FALSE, out.width='100%', fig.align='center'}
+
+library(htmltools)
+
+library(vembedr)
+
+embed_url('https://youtu.be/7YI7btIMy_g')
+
+```
+
+
+
+
+# ATENDIMENTOS
+
+
+
+
+Os atendimentos ocorrerão a partir de vídeoconferências a serem realizadas
+pelo google meet. Nenhuma forma de presença nos horários de atendimento será 
+cobrada mas, além da oportunidade de tirar dúvidas conceituais, estimula-se a 
+participação de todos os participantes da turma (para que tenhamos um espaço 
+de convívio).
+
+
+
+
+Nesta primeira parte, caso haja alguma dúvida de programação em excel, o estudante
+deverá solicitar uma reunião a partir do e-mail: victor.dmv@unifei.edu.br.
+
+
+
+
+
+
